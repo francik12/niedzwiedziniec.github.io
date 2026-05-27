@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Chorzow - Niedzwiedziniec Statistics</title>
+    <link rel="icon" type="image/png" href="favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="seasons.css"/>
+    <script src="seasons.js"></script>
+    <style>
+#statistics_widget th {
+  font-weight: normal;
+  text-align: right;
+}
+#statistics_widget .widget_title {
+  margin-bottom: 25px;
+}
+#statistics_widget .label {
+  font-size: 100%;
+}
+#statistics_widget .data {
+  text-align: right;
+  font-size: 100%;
+  padding-left: 50px;
+}
+#statistics_widget .units {
+  font-size: 100%;
+}
+#statistics_widget .timestamp {
+  color: var(--timestamp-color);
+}
+    </style>
+  </head>
+
+  <body>
+
+
+<div id="title_bar">
+  <div id="title">
+    <h1 class="page_title">Chorzow - Niedzwiedziniec</h1>
+    <p class="lastupdate">27/05/26 22:10:00</p>
+  </div>
+  <div id="rss_link"><a href="rss.xml">RSS</a></div>
+  <div id="reports">
+    Monthly Reports:
+    <select name="reports" onchange="openTabularFile(value)">
+      <option value="2026-05">2026-05</option>
+      <option selected>- Select Month -</option>
+    </select>
+    <br/>
+    Yearly Reports:
+    <select name="reports" onchange="openTabularFile(value)">
+      <option value="2026">2026</option>
+      <option selected>- Select Year -</option>
+    </select>
+    <br/>
+  </div>
+</div>
+    
+    <div id="contents">
+      <p><a href="index.html">&#10096; Current Conditions</a></p>
+
+      <div id="widget_group">
+
+
+
+
+<div id="statistics_widget" class="widget">
+  <div class="widget_title">
+    Statistics
+  </div>
+  <div class="widget_contents">
+
+    <table>
+      <tbody>
+        <tr>
+          <td></td>
+          <td></td>
+          <th>Today</th>
+          <th class="hilo_week">Week</th>
+          <th class="hilo_month">Month</th>
+          <th class="hilo_year">Year</th>
+          <th class="hilo_rainyear">Rain Year</th>
+        </tr>
+
+        <tr>
+          <td class="label">Outside Temperature</td>
+          <td class="units">&#176;C</td>
+          <td class="data new_row">
+            25.2<br/>
+            <span class="timestamp">15:12:25</span><br/>
+            15.8<br/>
+            <span class="timestamp">05:28:30</span>
+          </td>
+          <td class="data new_row">
+            29.3<br/>
+            <span class="timestamp">16:10:00 (Sunday)</span><br/>
+            11.6<br/>
+            <span class="timestamp">05:10:00 (Sunday)</span>
+          </td>
+          <td class="data new_row">
+            29.3<br/>
+            <span class="timestamp">24/05/26 16:10:00</span><br/>
+            3.3<br/>
+            <span class="timestamp">13/05/26 04:00:00</span>
+          </td>
+          <td class="data new_row">
+            29.3<br/>
+            <span class="timestamp">24/05/26 16:10:00</span><br/>
+            3.3<br/>
+            <span class="timestamp">13/05/26 04:00:00</span>
+          </td>
+          <td class="data new_row">
+            29.3<br/>
+            <span class="timestamp">24/05/26 16:10:00</span><br/>
+            3.3<br/>
+            <span class="timestamp">13/05/26 04:00:00</span>
+          </td>
+        </tr>
+        <tr>
+          <td class="label">Heat Index</td>
+          <td class="units">&#176;C</td>
+          <td class="data new_row">
+            24.9<br/>
+            <span class="timestamp">15:12:25</span><br/>
+            15.4<br/>
+            <span class="timestamp">05:28:30</span>
+          </td>
+          <td class="data new_row">
+            28.7<br/>
+            <span class="timestamp">16:10:00 (Sunday)</span><br/>
+            11.1<br/>
+            <span class="timestamp">05:10:00 (Sunday)</span>
+          </td>
+          <td class="data new_row">
+            28.7<br/>
+            <span class="timestamp">24/05/26 16:10:00</span><br/>
+            3.1<br/>
+            <span class="timestamp">13/05/26 02:00:00</span>
+          </td>
+          <td class="data new_row">
+            28.7<br/>
+            <span class="timestamp">24/05/26 16:10:00</span><br/>
+            3.1<br/>
+            <span class="timestamp">13/05/26 02:00:00</span>
+          </td>
+          <td class="data new_row">
+            28.7<br/>
+            <span class="timestamp">24/05/26 16:10:00</span><br/>
+            3.1<br/>
+            <span class="timestamp">13/05/26 02:00:00</span>
+          </td>
+        </tr>
+        <tr>
+          <td class="label">Wind Chill</td>
+          <td class="units">&#176;C</td>
+          <td class="data new_row">
+            25.2<br/>
+            <span class="timestamp">15:12:25</span><br/>
+            15.8<br/>
+            <span class="timestamp">05:28:30</span>
+          </td>
+          <td class="data new_row">
+            29.3<br/>
+            <span class="timestamp">16:10:00 (Sunday)</span><br/>
+            11.6<br/>
+            <span class="timestamp">05:10:00 (Sunday)</span>
+          </td>
+          <td class="data new_row">
+            29.3<br/>
+            <span class="timestamp">24/05/26 16:10:00</span><br/>
+            3.3<br/>
+            <span class="timestamp">13/05/26 04:00:00</span>
+          </td>
+          <td class="data new_row">
+            29.3<br/>
+            <span class="timestamp">24/05/26 16:10:00</span><br/>
+            3.3<br/>
+            <span class="timestamp">13/05/26 04:00:00</span>
+          </td>
+          <td class="data new_row">
+            29.3<br/>
+            <span class="timestamp">24/05/26 16:10:00</span><br/>
+            3.3<br/>
+            <span class="timestamp">13/05/26 04:00:00</span>
+          </td>
+        </tr>
+        <tr>
+          <td class="label">Dew Point</td>
+          <td class="units">&#176;C</td>
+          <td class="data new_row">
+            14.8<br/>
+            <span class="timestamp">11:41:07</span><br/>
+            1.4<br/>
+            <span class="timestamp">18:25:07</span>
+          </td>
+          <td class="data new_row">
+            15.3<br/>
+            <span class="timestamp">21:10:00 (Sunday)</span><br/>
+            1.4<br/>
+            <span class="timestamp">18:25:07 (Wednesday)</span>
+          </td>
+          <td class="data new_row">
+            15.3<br/>
+            <span class="timestamp">24/05/26 21:10:00</span><br/>
+            1.1<br/>
+            <span class="timestamp">12/05/26 21:20:00</span>
+          </td>
+          <td class="data new_row">
+            15.3<br/>
+            <span class="timestamp">24/05/26 21:10:00</span><br/>
+            1.1<br/>
+            <span class="timestamp">12/05/26 21:20:00</span>
+          </td>
+          <td class="data new_row">
+            15.3<br/>
+            <span class="timestamp">24/05/26 21:10:00</span><br/>
+            1.1<br/>
+            <span class="timestamp">12/05/26 21:20:00</span>
+          </td>
+        </tr>
+        <tr>
+          <td class="label">Outside Humidity</td>
+          <td class="units">%</td>
+          <td class="data new_row">
+            77<br/>
+            <span class="timestamp">05:17:36</span><br/>
+            24<br/>
+            <span class="timestamp">18:16:37</span>
+          </td>
+          <td class="data new_row">
+            90<br/>
+            <span class="timestamp">04:10:00 (Sunday)</span><br/>
+            24<br/>
+            <span class="timestamp">18:16:37 (Wednesday)</span>
+          </td>
+          <td class="data new_row">
+            95<br/>
+            <span class="timestamp">18/05/26 06:10:00</span><br/>
+            24<br/>
+            <span class="timestamp">27/05/26 18:16:37</span>
+          </td>
+          <td class="data new_row">
+            95<br/>
+            <span class="timestamp">18/05/26 06:10:00</span><br/>
+            24<br/>
+            <span class="timestamp">27/05/26 18:16:37</span>
+          </td>
+          <td class="data new_row">
+            95<br/>
+            <span class="timestamp">18/05/26 06:10:00</span><br/>
+            24<br/>
+            <span class="timestamp">27/05/26 18:16:37</span>
+          </td>
+        </tr>
+        <tr>
+          <td class="label">Barometer</td>
+          <td class="units"> mbar</td>
+          <td class="data new_row">
+            1023.0<br/>
+            <span class="timestamp">00:00:03</span><br/>
+            1017.9<br/>
+            <span class="timestamp">15:00:03</span>
+          </td>
+          <td class="data new_row">
+            1032.2<br/>
+            <span class="timestamp">11:00:00 (Monday)</span><br/>
+            1017.9<br/>
+            <span class="timestamp">15:00:03 (Wednesday)</span>
+          </td>
+          <td class="data new_row">
+            1032.2<br/>
+            <span class="timestamp">25/05/26 11:00:00</span><br/>
+            999.3<br/>
+            <span class="timestamp">12/05/26 02:20:00</span>
+          </td>
+          <td class="data new_row">
+            1032.2<br/>
+            <span class="timestamp">25/05/26 11:00:00</span><br/>
+            999.3<br/>
+            <span class="timestamp">12/05/26 02:20:00</span>
+          </td>
+          <td class="data new_row">
+            1032.2<br/>
+            <span class="timestamp">25/05/26 11:00:00</span><br/>
+            999.3<br/>
+            <span class="timestamp">12/05/26 02:20:00</span>
+          </td>
+        </tr>
+        <tr>
+          <td class="label">Max Wind</td>
+          <td class="units">
+             m/s<br/>
+            &#176;
+          </td>
+          <td class="data new_row">
+            10.7<br/>
+            115<br/>
+            <span class="timestamp">13:11:09</span>
+          </td>
+          <td class="data new_row">
+            10.7<br/>
+            115<br/>
+            <span class="timestamp">13:11:09 (Wednesday)</span>
+          </td>
+          <td class="data new_row">
+            10.7<br/>
+            115<br/>
+            <span class="timestamp">27/05/26 13:11:09</span>
+          </td>
+          <td class="data new_row">
+            10.7<br/>
+            115<br/>
+            <span class="timestamp">27/05/26 13:11:09</span>
+          </td>
+          <td class="data new_row">
+            10.7<br/>
+            115<br/>
+            <span class="timestamp">27/05/26 13:11:09</span>
+          </td>
+        </tr>
+        <tr>
+          <td class="label">Average Wind</td>
+          <td class="units"> m/s</td>
+          <td class="data new_row">
+            1.7</td>
+          <td class="data new_row">
+            1.1</td>
+          <td class="data new_row">
+            0.8</td>
+          <td class="data new_row">
+            0.8</td>
+          <td class="data new_row">
+            0.8</td>
+        </tr>
+        <tr>
+          <td class="label">RMS Wind</td>
+          <td class="units"> m/s</td>
+          <td class="data new_row">1.9</td>
+          <td class="data new_row">1.4</td>
+          <td class="data new_row">1.0</td>
+          <td class="data new_row">1.0</td>
+          <td class="data new_row">1.0</td>
+        </tr>
+
+        <tr>
+          <td class="label">
+            Vector Average<br/>
+            Vector Direction
+          </td>
+          <td class="units">
+             m/s<br/>
+            &#176;
+          </td>
+          <td class="data new_row">
+            0.4<br/>
+            094
+          </td>
+          <td class="data new_row">
+            0.6<br/>
+            110
+          </td>
+          <td class="data new_row">
+            0.2<br/>
+            101
+          </td>
+          <td class="data new_row">
+            0.2<br/>
+            101
+          </td>
+          <td class="data new_row">
+            0.2<br/>
+            101
+          </td>
+        </tr>
+        <tr>
+          <td class="label">Rain</td>
+          <td class="units"> mm</td>
+          <td class="data new_row">0.0</td>
+          <td class="data new_row">0.0</td>
+          <td class="data new_row">38.6</td>
+          <td class="data new_row">38.6</td>
+          <td class="data new_row">38.6</td>
+        </tr>
+        <tr>
+          <td class="label">Rain Rate</td>
+          <td class="units"> mm/h</td>
+          <td class="data new_row">
+            0.0<br/>
+            <span class="timestamp">00:00:03</span>
+          </td>
+          <td class="data new_row">
+            0.0<br/>
+            <span class="timestamp">00:10:00 (Sunday)</span>
+          </td>
+          <td class="data new_row">
+            12.2<br/>
+            <span class="timestamp">12/05/26 01:00:00</span>
+          </td>
+          <td class="data new_row">
+            12.2<br/>
+            <span class="timestamp">12/05/26 01:00:00</span>
+          </td>
+          <td class="data new_row">
+            12.2<br/>
+            <span class="timestamp">12/05/26 01:00:00</span>
+          </td>
+        </tr>
+        <tr>
+          <td class="label">Evapotranspiration</td>
+          <td class="units"> mm</td>
+          <td class="data new_row">0.0</td>
+          <td class="data new_row">0.0</td>
+          <td class="data new_row">0.0</td>
+          <td class="data new_row">0.0</td>
+          <td class="data new_row">0.0</td>
+        </tr>
+        <tr>
+          <td class="label">Inside Temperature</td>
+          <td class="units">&#176;C</td>
+          <td class="data new_row">
+            27.2<br/>
+            <span class="timestamp">19:35:01</span><br/>
+            22.1<br/>
+            <span class="timestamp">05:12:00</span>
+          </td>
+          <td class="data new_row">
+            27.2<br/>
+            <span class="timestamp">19:35:01 (Wednesday)</span><br/>
+            21.3<br/>
+            <span class="timestamp">08:10:00 (Monday)</span>
+          </td>
+          <td class="data new_row">
+            27.2<br/>
+            <span class="timestamp">27/05/26 19:35:01</span><br/>
+            20.4<br/>
+            <span class="timestamp">18/05/26 08:00:00</span>
+          </td>
+          <td class="data new_row">
+            27.2<br/>
+            <span class="timestamp">27/05/26 19:35:01</span><br/>
+            20.4<br/>
+            <span class="timestamp">18/05/26 08:00:00</span>
+          </td>
+          <td class="data new_row">
+            27.2<br/>
+            <span class="timestamp">27/05/26 19:35:01</span><br/>
+            20.4<br/>
+            <span class="timestamp">18/05/26 08:00:00</span>
+          </td>
+        </tr>
+        <tr>
+          <td class="label">Inside Humidity</td>
+          <td class="units">%</td>
+          <td class="data new_row">
+            48<br/>
+            <span class="timestamp">07:47:00</span><br/>
+            35<br/>
+            <span class="timestamp">15:56:01</span>
+          </td>
+          <td class="data new_row">
+            52<br/>
+            <span class="timestamp">02:10:00 (Monday)</span><br/>
+            35<br/>
+            <span class="timestamp">15:56:01 (Wednesday)</span>
+          </td>
+          <td class="data new_row">
+            52<br/>
+            <span class="timestamp">25/05/26 02:10:00</span><br/>
+            33<br/>
+            <span class="timestamp">13/05/26 10:50:00</span>
+          </td>
+          <td class="data new_row">
+            52<br/>
+            <span class="timestamp">25/05/26 02:10:00</span><br/>
+            33<br/>
+            <span class="timestamp">13/05/26 10:50:00</span>
+          </td>
+          <td class="data new_row">
+            52<br/>
+            <span class="timestamp">25/05/26 02:10:00</span><br/>
+            33<br/>
+            <span class="timestamp">13/05/26 10:50:00</span>
+          </td>
+        </tr>
+
+      </tbody>
+    </table>
+
+  </div>
+</div>
+      </div>
+
+
+<div id='identifier_widget' class="widget">
+  <div class="widget_title">
+  </div>
+  <div class="widget_contents">
+  <table>
+    <tr>
+      <td class="label">Latitude</td>
+      <td class="data">50&deg; 09.00' N</td>
+    </tr>
+    <tr>
+      <td class="label">Longitude</td>
+      <td class="data">018&deg; 34.20' E</td>
+    </tr>
+    <tr>
+      <td class="label">Altitude</td>
+      <td class="data">305 meters</td>
+    </tr>
+    <tr>
+      <td class="label">WeeWX</td>
+      <td class="data">5.3.1</td>
+    </tr>
+  </table>
+  </div>
+
+</div>
+    </div>
+
+  </body>
+</html>
