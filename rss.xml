@@ -10,52 +10,52 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sat, 30 May 2026 20:20:00 CEST</pubDate>
+    <pubDate>Sat, 30 May 2026 20:30:00 CEST</pubDate>
 
-    <lastBuildDate>Sat, 30 May 2026 20:20:00 CEST</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 20:30:00 CEST</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.3.1</generator>
     <ttl>10.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 30/05/26 20:20:00</title>
+      <title>Weather Conditions at 30/05/26 20:30:00</title>
       <link></link>
       <description>
-        Outside Temperature: 16.3&#176;C;
-        Inside Temperature: 22.7&#176;C;
-        Barometer: 1015.1 mbar;
+        Outside Temperature: 16.1&#176;C;
+        Inside Temperature: 22.6&#176;C;
+        Barometer: 1015.2 mbar;
         Wind: 0.0 m/s from    N/A;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 16.3&#176;C;
-        Heat Index: 16.3&#176;C;
-        Dew Point: 14.3&#176;C;
-        Outside Humidity: 88%;
-        Inside Humidity: 49%;
+        Wind Chill: 16.1&#176;C;
+        Heat Index: 16.1&#176;C;
+        Dew Point: 14.4&#176;C;
+        Outside Humidity: 90%;
+        Inside Humidity: 50%;
       </description>
-      <pubDate>Sat, 30 May 2026 20:20:00 CEST</pubDate>
+      <pubDate>Sat, 30 May 2026 20:30:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 30/05/26 20:20:00<br/>
-        Outside Temperature: 16.3&#176;C<br/>
-        Inside Temperature: 22.7&#176;C<br/>
-        Barometer: 1015.1 mbar<br/>
+      Time: 30/05/26 20:30:00<br/>
+        Outside Temperature: 16.1&#176;C<br/>
+        Inside Temperature: 22.6&#176;C<br/>
+        Barometer: 1015.2 mbar<br/>
         Wind: 0.0 m/s from    N/A;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 16.3&#176;C<br/>
-        Heat Index: 16.3&#176;C<br/>
-        Dew Point: 14.3&#176;C<br/>
-        Outside Humidity: 88%<br/>
-        Inside Humidity: 49%<br/>
+        Wind Chill: 16.1&#176;C<br/>
+        Heat Index: 16.1&#176;C<br/>
+        Dew Point: 14.4&#176;C<br/>
+        Outside Humidity: 90%<br/>
+        Inside Humidity: 50%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 30/05/26 20:20:00</title>
+      <title>Daily summary as of 30/05/26 20:30:00</title>
       <link></link>
       <description>
         Min Outside Temperature: 12.8&#176;C at 04:03:06;
@@ -76,9 +76,9 @@
         Min Outside Humidity: 56% at 00:00:04;
         Max Outside Humidity: 94% at 19:11:39;
         Min Inside Humidity: 33% at 00:00:04;
-        Max Inside Humidity: 49% at 18:42:01;
+        Max Inside Humidity: 50% at 20:26:01;
       </description>
-      <pubDate>Sat, 30 May 2026 20:20:00 CEST</pubDate>
+      <pubDate>Sat, 30 May 2026 20:30:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
@@ -102,12 +102,12 @@
         Min Outside Humidity: 56% at 00:00:04<br/>
         Max Outside Humidity: 94% at 19:11:39<br/>
         Min Inside Humidity: 33% at 00:00:04<br/>
-        Max Inside Humidity: 49% at 18:42:01<br/>
+        Max Inside Humidity: 50% at 20:26:01<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 30/05/26 20:20:00</title>
+      <title>Monthly summary as of 30/05/26 20:30:00</title>
       <link></link>
       <description>
         Min Outside Temperature: 3.3&#176;C at 13/05/26 04:00:00;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 28% at 28/05/26 14:41:01;
         Max Inside Humidity: 52% at 25/05/26 02:10:00;
       </description>
-      <pubDate>Sat, 30 May 2026 20:20:00 CEST</pubDate>
+      <pubDate>Sat, 30 May 2026 20:30:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 30/05/26 20:20:00</title>
+      <title>Yearly summary as of 30/05/26 20:30:00</title>
       <link></link>
       <description>
         Min Outside Temperature: 3.3&#176;C at 13/05/26 04:00:00;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 28% at 28/05/26 14:41:01;
         Max Inside Humidity: 52% at 25/05/26 02:10:00;
       </description>
-      <pubDate>Sat, 30 May 2026 20:20:00 CEST</pubDate>
+      <pubDate>Sat, 30 May 2026 20:30:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
