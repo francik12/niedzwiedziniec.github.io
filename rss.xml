@@ -10,52 +10,52 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sat, 30 May 2026 18:00:00 CEST</pubDate>
+    <pubDate>Sat, 30 May 2026 18:10:00 CEST</pubDate>
 
-    <lastBuildDate>Sat, 30 May 2026 18:00:00 CEST</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 18:10:00 CEST</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.3.1</generator>
     <ttl>10.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 30/05/26 18:00:00</title>
+      <title>Weather Conditions at 30/05/26 18:10:00</title>
       <link></link>
       <description>
-        Outside Temperature: 17.4&#176;C;
+        Outside Temperature: 17.1&#176;C;
         Inside Temperature: 22.2&#176;C;
-        Barometer: 1015.2 mbar;
-        Wind: 0.0 m/s from    N/A;
-        Rain: 0.6 mm;
-        Rain Rate: 5.0 mm/h;
-        Wind Chill: 17.4&#176;C;
-        Heat Index: 17.5&#176;C;
-        Dew Point: 15.7&#176;C;
-        Outside Humidity: 90%;
+        Barometer: 1015.5 mbar;
+        Wind: 0.4 m/s from 315&#176;;
+        Rain: 6.0 mm;
+        Rain Rate: 122.6 mm/h;
+        Wind Chill: 17.1&#176;C;
+        Heat Index: 17.2&#176;C;
+        Dew Point: 15.6&#176;C;
+        Outside Humidity: 91%;
         Inside Humidity: 48%;
       </description>
-      <pubDate>Sat, 30 May 2026 18:00:00 CEST</pubDate>
+      <pubDate>Sat, 30 May 2026 18:10:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 30/05/26 18:00:00<br/>
-        Outside Temperature: 17.4&#176;C<br/>
+      Time: 30/05/26 18:10:00<br/>
+        Outside Temperature: 17.1&#176;C<br/>
         Inside Temperature: 22.2&#176;C<br/>
-        Barometer: 1015.2 mbar<br/>
-        Wind: 0.0 m/s from    N/A;
-        Rain: 0.6 mm<br/>
-        Rain Rate: 5.0 mm/h<br/>
-        Wind Chill: 17.4&#176;C<br/>
-        Heat Index: 17.5&#176;C<br/>
-        Dew Point: 15.7&#176;C<br/>
-        Outside Humidity: 90%<br/>
+        Barometer: 1015.5 mbar<br/>
+        Wind: 0.4 m/s from 315&#176;;
+        Rain: 6.0 mm<br/>
+        Rain Rate: 122.6 mm/h<br/>
+        Wind Chill: 17.1&#176;C<br/>
+        Heat Index: 17.2&#176;C<br/>
+        Dew Point: 15.6&#176;C<br/>
+        Outside Humidity: 91%<br/>
         Inside Humidity: 48%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 30/05/26 18:00:00</title>
+      <title>Daily summary as of 30/05/26 18:10:00</title>
       <link></link>
       <description>
         Min Outside Temperature: 12.8&#176;C at 04:03:06;
@@ -65,8 +65,8 @@
         Min Barometer: 1014.7 mbar at 17:13:01;
         Max Barometer: 1021.1 mbar at 00:03:00;
         Max Wind: 4.9 m/s from 117&#176; at 09:50:45;
-        Rain: 4.8 mm;
-        Max Rain Rate: 5.0 mm/h;
+        Rain: 10.8 mm;
+        Max Rain Rate: 122.6 mm/h;
         Min Wind Chill: 12.8&#176;C at 04:03:06;
         Max Wind Chill: 19.6&#176;C at 16:50:39;
         Min Heat Index: 11.8&#176;C at 04:03:06;
@@ -74,11 +74,11 @@
         Min Dew Point: 5.5&#176;C at 00:06:12;
         Max Dew Point: 16.9&#176;C at 16:36:29;
         Min Outside Humidity: 56% at 00:00:04;
-        Max Outside Humidity: 90% at 16:28:31;
+        Max Outside Humidity: 91% at 18:01:37;
         Min Inside Humidity: 33% at 00:00:04;
         Max Inside Humidity: 48% at 17:52:01;
       </description>
-      <pubDate>Sat, 30 May 2026 18:00:00 CEST</pubDate>
+      <pubDate>Sat, 30 May 2026 18:10:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
@@ -91,8 +91,8 @@
         Min Barometer: 1014.7 mbar at 17:13:01<br/>
         Max Barometer: 1021.1 mbar at 00:03:00<br/>
         Max Wind: 4.9 m/s from 117&#176; at 09:50:45<br/>
-        Rain: 4.8 mm<br/>
-        Max Rain Rate: 5.0 mm/h<br/>
+        Rain: 10.8 mm<br/>
+        Max Rain Rate: 122.6 mm/h<br/>
         Min Wind Chill: 12.8&#176;C at 04:03:06<br/>
         Max Wind Chill: 19.6&#176;C at 16:50:39<br/>
         Min Heat Index: 11.8&#176;C at 04:03:06<br/>
@@ -100,14 +100,14 @@
         Min Dew Point: 5.5&#176;C at 00:06:12<br/>
         Max Dew Point: 16.9&#176;C at 16:36:29<br/>
         Min Outside Humidity: 56% at 00:00:04<br/>
-        Max Outside Humidity: 90% at 16:28:31<br/>
+        Max Outside Humidity: 91% at 18:01:37<br/>
         Min Inside Humidity: 33% at 00:00:04<br/>
         Max Inside Humidity: 48% at 17:52:01<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 30/05/26 18:00:00</title>
+      <title>Monthly summary as of 30/05/26 18:10:00</title>
       <link></link>
       <description>
         Min Outside Temperature: 3.3&#176;C at 13/05/26 04:00:00;
@@ -117,8 +117,8 @@
         Min Barometer: 999.3 mbar at 12/05/26 02:20:00;
         Max Barometer: 1032.2 mbar at 25/05/26 11:00:00;
         Max Wind: 10.7 m/s from 115&#176; at 27/05/26 13:11:09;
-        Rain: 43.4 mm;
-        Max Rain Rate: 12.2 mm/h;
+        Rain: 49.4 mm;
+        Max Rain Rate: 122.6 mm/h;
         Min Wind Chill: 3.3&#176;C at 13/05/26 04:00:00;
         Max Wind Chill: 29.3&#176;C at 24/05/26 16:10:00;
         Min Heat Index: 3.1&#176;C at 13/05/26 02:00:00;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 28% at 28/05/26 14:41:01;
         Max Inside Humidity: 52% at 25/05/26 02:10:00;
       </description>
-      <pubDate>Sat, 30 May 2026 18:00:00 CEST</pubDate>
+      <pubDate>Sat, 30 May 2026 18:10:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
@@ -143,8 +143,8 @@
         Min Barometer: 999.3 mbar at 12/05/26 02:20:00<br/>
         Max Barometer: 1032.2 mbar at 25/05/26 11:00:00<br/>
         Max Wind: 10.7 m/s from 115&#176; at 27/05/26 13:11:09<br/>
-        Rain: 43.4 mm<br/>
-        Max Rain Rate: 12.2 mm/h<br/>
+        Rain: 49.4 mm<br/>
+        Max Rain Rate: 122.6 mm/h<br/>
         Min Wind Chill: 3.3&#176;C at 13/05/26 04:00:00<br/>
         Max Wind Chill: 29.3&#176;C at 24/05/26 16:10:00<br/>
         Min Heat Index: 3.1&#176;C at 13/05/26 02:00:00<br/>
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 30/05/26 18:00:00</title>
+      <title>Yearly summary as of 30/05/26 18:10:00</title>
       <link></link>
       <description>
         Min Outside Temperature: 3.3&#176;C at 13/05/26 04:00:00;
@@ -169,8 +169,8 @@
         Min Barometer: 999.3 mbar at 12/05/26 02:20:00;
         Max Barometer: 1032.2 mbar at 25/05/26 11:00:00;
         Max Wind: 10.7 m/s from 115&#176; at 27/05/26 13:11:09;
-        Rain: 43.4 mm;
-        Max Rain Rate: 12.2 mm/h;
+        Rain: 49.4 mm;
+        Max Rain Rate: 122.6 mm/h;
         Min Wind Chill: 3.3&#176;C at 13/05/26 04:00:00;
         Max Wind Chill: 29.3&#176;C at 24/05/26 16:10:00;
         Min Heat Index: 3.1&#176;C at 13/05/26 02:00:00;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 28% at 28/05/26 14:41:01;
         Max Inside Humidity: 52% at 25/05/26 02:10:00;
       </description>
-      <pubDate>Sat, 30 May 2026 18:00:00 CEST</pubDate>
+      <pubDate>Sat, 30 May 2026 18:10:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
@@ -195,8 +195,8 @@
         Min Barometer: 999.3 mbar at 12/05/26 02:20:00<br/>
         Max Barometer: 1032.2 mbar at 25/05/26 11:00:00<br/>
         Max Wind: 10.7 m/s from 115&#176; at 27/05/26 13:11:09<br/>
-        Rain: 43.4 mm<br/>
-        Max Rain Rate: 12.2 mm/h<br/>
+        Rain: 49.4 mm<br/>
+        Max Rain Rate: 122.6 mm/h<br/>
         Min Wind Chill: 3.3&#176;C at 13/05/26 04:00:00<br/>
         Max Wind Chill: 29.3&#176;C at 24/05/26 16:10:00<br/>
         Min Heat Index: 3.1&#176;C at 13/05/26 02:00:00<br/>
