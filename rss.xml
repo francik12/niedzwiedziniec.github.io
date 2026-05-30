@@ -10,55 +10,55 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sun, 31 May 2026 00:20:00 CEST</pubDate>
+    <pubDate>Sun, 31 May 2026 00:30:00 CEST</pubDate>
 
-    <lastBuildDate>Sun, 31 May 2026 00:20:00 CEST</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 00:30:00 CEST</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.3.1</generator>
     <ttl>10.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 31/05/26 00:20:00</title>
+      <title>Weather Conditions at 31/05/26 00:30:00</title>
       <link></link>
       <description>
-        Outside Temperature: 15.0&#176;C;
+        Outside Temperature: 14.9&#176;C;
         Inside Temperature: 21.7&#176;C;
         Barometer: 1016.5 mbar;
         Wind: 0.9 m/s from 112&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 15.0&#176;C;
-        Heat Index: 14.8&#176;C;
-        Dew Point: 12.7&#176;C;
-        Outside Humidity: 86%;
+        Wind Chill: 14.9&#176;C;
+        Heat Index: 14.7&#176;C;
+        Dew Point: 12.4&#176;C;
+        Outside Humidity: 85%;
         Inside Humidity: 51%;
       </description>
-      <pubDate>Sun, 31 May 2026 00:20:00 CEST</pubDate>
+      <pubDate>Sun, 31 May 2026 00:30:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 31/05/26 00:20:00<br/>
-        Outside Temperature: 15.0&#176;C<br/>
+      Time: 31/05/26 00:30:00<br/>
+        Outside Temperature: 14.9&#176;C<br/>
         Inside Temperature: 21.7&#176;C<br/>
         Barometer: 1016.5 mbar<br/>
         Wind: 0.9 m/s from 112&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 15.0&#176;C<br/>
-        Heat Index: 14.8&#176;C<br/>
-        Dew Point: 12.7&#176;C<br/>
-        Outside Humidity: 86%<br/>
+        Wind Chill: 14.9&#176;C<br/>
+        Heat Index: 14.7&#176;C<br/>
+        Dew Point: 12.4&#176;C<br/>
+        Outside Humidity: 85%<br/>
         Inside Humidity: 51%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 31/05/26 00:20:00</title>
+      <title>Daily summary as of 31/05/26 00:30:00</title>
       <link></link>
       <description>
-        Min Outside Temperature: 14.9&#176;C at 00:17:04;
+        Min Outside Temperature: 14.9&#176;C at 00:25:16;
         Max Outside Temperature: 15.1&#176;C at 00:00:04;
         Min Inside Temperature: 21.7&#176;C at 00:20:00;
         Max Inside Temperature: 21.7&#176;C at 00:00:04;
@@ -67,24 +67,24 @@
         Max Wind: 3.1 m/s from 112&#176; at 00:20:00;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
-        Min Wind Chill: 14.9&#176;C at 00:17:04;
+        Min Wind Chill: 14.9&#176;C at 00:25:16;
         Max Wind Chill: 15.1&#176;C at 00:00:04;
-        Min Heat Index: 14.7&#176;C at 00:17:26;
+        Min Heat Index: 14.7&#176;C at 00:25:16;
         Max Heat Index: 14.9&#176;C at 00:00:04;
-        Min Dew Point: 12.4&#176;C at 00:17:26;
+        Min Dew Point: 12.4&#176;C at 00:25:16;
         Max Dew Point: 13.0&#176;C at 00:00:04;
         Min Outside Humidity: 85% at 00:17:26;
         Max Outside Humidity: 87% at 00:00:04;
         Min Inside Humidity: 51% at 00:00:04;
         Max Inside Humidity: 51% at 00:00:04;
       </description>
-      <pubDate>Sun, 31 May 2026 00:20:00 CEST</pubDate>
+      <pubDate>Sun, 31 May 2026 00:30:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 31 May 2026<br/>
-        Min Outside Temperature: 14.9&#176;C at 00:17:04<br/>
+        Min Outside Temperature: 14.9&#176;C at 00:25:16<br/>
         Max Outside Temperature: 15.1&#176;C at 00:00:04<br/>
         Min Inside Temperature: 21.7&#176;C at 00:20:00<br/>
         Max Inside Temperature: 21.7&#176;C at 00:00:04<br/>
@@ -93,11 +93,11 @@
         Max Wind: 3.1 m/s from 112&#176; at 00:20:00<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
-        Min Wind Chill: 14.9&#176;C at 00:17:04<br/>
+        Min Wind Chill: 14.9&#176;C at 00:25:16<br/>
         Max Wind Chill: 15.1&#176;C at 00:00:04<br/>
-        Min Heat Index: 14.7&#176;C at 00:17:26<br/>
+        Min Heat Index: 14.7&#176;C at 00:25:16<br/>
         Max Heat Index: 14.9&#176;C at 00:00:04<br/>
-        Min Dew Point: 12.4&#176;C at 00:17:26<br/>
+        Min Dew Point: 12.4&#176;C at 00:25:16<br/>
         Max Dew Point: 13.0&#176;C at 00:00:04<br/>
         Min Outside Humidity: 85% at 00:17:26<br/>
         Max Outside Humidity: 87% at 00:00:04<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 31/05/26 00:20:00</title>
+      <title>Monthly summary as of 31/05/26 00:30:00</title>
       <link></link>
       <description>
         Min Outside Temperature: 3.3&#176;C at 13/05/26 04:00:00;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 28% at 28/05/26 14:41:01;
         Max Inside Humidity: 52% at 25/05/26 02:10:00;
       </description>
-      <pubDate>Sun, 31 May 2026 00:20:00 CEST</pubDate>
+      <pubDate>Sun, 31 May 2026 00:30:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 31/05/26 00:20:00</title>
+      <title>Yearly summary as of 31/05/26 00:30:00</title>
       <link></link>
       <description>
         Min Outside Temperature: 3.3&#176;C at 13/05/26 04:00:00;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 28% at 28/05/26 14:41:01;
         Max Inside Humidity: 52% at 25/05/26 02:10:00;
       </description>
-      <pubDate>Sun, 31 May 2026 00:20:00 CEST</pubDate>
+      <pubDate>Sun, 31 May 2026 00:30:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
